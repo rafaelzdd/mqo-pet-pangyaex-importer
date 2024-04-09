@@ -1,0 +1,2 @@
+1. Arraste os arquivos criados para o executavel mkpypak.exe 
+2. O seu arquivo .pak será gerado corretamente

@@ -1,0 +1,2 @@
+1. Arraste os arquivos do seu .pak para o executavel pangupk.exe
+2. O seu arquivo .pak será descompactado
